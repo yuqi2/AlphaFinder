@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { eventAPI, conditionAPI } from '../services/api';
+import { eventAPI } from '../services/api';
 import './EventList.css';
 
 const EventList = () => {
